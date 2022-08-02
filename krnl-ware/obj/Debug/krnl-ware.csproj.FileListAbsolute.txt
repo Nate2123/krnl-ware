@@ -1,0 +1,12 @@
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\obj\Debug\krnl_ware.Form1.resources
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\obj\Debug\krnl_ware.Properties.Resources.resources
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\obj\Debug\krnl-ware.csproj.GenerateResource.cache
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\obj\Debug\krnl-ware.csproj.CoreCompileInputs.cache
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\bin\Debug\krnl-ware.exe.config
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\bin\Debug\krnl-ware.exe
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\bin\Debug\krnl-ware.pdb
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\obj\Debug\krnl-ware.csproj.CopyComplete
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\obj\Debug\krnl-ware.exe
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\obj\Debug\krnl-ware.pdb
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\bin\Debug\sxlib.dll
+C:\Users\merlyn\source\repos\krnl-ware\krnl-ware\bin\Debug\sxlib.xml
